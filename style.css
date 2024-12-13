@@ -1,0 +1,29 @@
+
+ul{color: rgb(81, 89, 207);}
+ol{color:rgb(216, 204, 181);}
+ul{color: rgba(32, 130, 241, 0.932);}
+ol{color: rgb(219, 211, 200);}
+
+body {
+    background-color:#f4fdfd; /* Light neutral color for the background */
+    color: #55b0fa; /* Dark text for good contrast */
+    font-family:'central gothic',sans-serif; /* Clean font for readability */
+    margin: 0;
+    padding: 0;
+} 
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #9bdaf7;
+}
+
+p {
+    line-height: 1.5;
+    color: rgba(90, 29, 204, 0.897);
+}
+
+em {
+    font-style: italic;
+}
